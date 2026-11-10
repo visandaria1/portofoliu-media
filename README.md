@@ -33,13 +33,14 @@ Carte de vizită digitală – realizată folosind programe de editare grafică.
 CV personal – realizat în Markdown și publicat pe GitHub.
 
 ## Obiective
-
-Crearea unui cont GitHub
-Realizarea portofoliului școlar
-Obținerea atestatului profesional
-Promovarea examenului de bacalaureat
-Admiterea la facultate în Brașov
-Urmarea specializării de Laborator Clinic
+- [x] Dezvoltarea cunoștințelor personale
+- [x] Dezvoltarea competențelor de grafică și design
+- [ ] Finalizarea studiilor liceale
+- [ ] Obținerea atestatului profesional
+- [ ] Promovarea examenului de bacalaureat
+- [ ] Admiterea la facultate în Brașov
+- [ ] Urmarea specializării Laborator Clinic
+- [ ] Dezvoltarea cunoștințelor personale
 
 ## Pasiuni
 
@@ -50,9 +51,13 @@ Sunt interesat de domeniul medicinei și al analizelor de laborator.
 
 ## Nivelul competențelor
 
-Competență	Nivel
-Microsoft Word	Mediu
-Utilizarea calculatorului	Mediu
-Inkscape	Începător
-Markdown	Începător
-Lucrul în echipă Avansat
+| Competență | Nivel |
+| --- | --- |
+| Microsoft Word | Mediu |
+| Utilizarea calculatorului | Mediu |
+| Inkscape | Începător |
+| Markdown | Începător |
+| Lucrul în echipă | Mediu |
+
+## About me
+I am a creative and ambitious student who enjoys learning new things. I am interested in technology and medical science. In the future, I would like to study Clinical Laboratory at a university in Brașov. I want to develop my skills and gain new experiences.
