@@ -1,7 +1,7 @@
 # portofoliu-media
-# Prenume Nume
+# VISAN DARIA
 
-**Elev, clasa a XII-a – Producție media**  
+**Elev, clasa a XII-A – Producție media**  
 Liceul Tehnologic „Grigore C. Moisil” Buzău · [GitHub](https://github.com/utilizator)
 
 >„Mai puține vorbe, mai multe lucruri create.”.
@@ -17,7 +17,7 @@ Sunt o persoană ambițioasă și curioasă, căreia îi place să învețe lucr
 | Perioada    | Școala                                 | Specializarea   |
 |-------------|----------------------------------------|-----------------|
 | 2023 – 2027 | Liceul Tehnologic „Grigore C. Moisil”  | Producție media |
-| 2015 – 2023 | Școala Gimnazială NR 15                | –               |
+| 2015 – 2023 | Școala Gimnazială NR 15                | Invatamant gimnazial|
 
 ## Competențe
 
@@ -31,6 +31,7 @@ Sunt o persoană ambițioasă și curioasă, căreia îi place să învețe lucr
 Afiș publicitar – realizat în cadrul orelor de specialitate.
 Carte de vizită digitală – realizată folosind programe de editare grafică.
 CV personal – realizat în Markdown și publicat pe GitHub.
+
 ## Obiective
 
 Crearea unui cont GitHub
@@ -39,3 +40,19 @@ Obținerea atestatului profesional
 Promovarea examenului de bacalaureat
 Admiterea la facultate în Brașov
 Urmarea specializării de Laborator Clinic
+
+## Pasiuni
+
+Îmi place să învăț lucruri noi.
+Sunt interesat de domeniul medicinei și al analizelor de laborator.
+Îmi place să descopăr tehnologii noi.
+Îmi place să petrec timp cu prietenii și familia.
+
+## Nivelul competențelor
+
+Competență	Nivel
+Microsoft Word	Mediu
+Utilizarea calculatorului	Mediu
+Inkscape	Începător
+Markdown	Începător
+Lucrul în echipă Avansat
